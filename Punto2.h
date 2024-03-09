@@ -1,8 +1,8 @@
 #ifndef PUNTO2_H
 #define PUNTO2_H
 
-int Ejercicio1a();
-int Ejercicio2a();
+void pedirmonto();
+void cambiodebilletes(int *,int);
 int Ejercicio3a();
 int Ejercicio4a();
 int Ejercicio5();
