@@ -1,12 +1,13 @@
 # include <iostream>
-# include "Punto1.h"
+# include "Punto2.h"
 
 
 using namespace std;
 
 int main()
-{
-    Ejercicio1a();
+{     
+    pedirmonto();
+    cambiodebilletes({},10);
 
     return 0;
 }
