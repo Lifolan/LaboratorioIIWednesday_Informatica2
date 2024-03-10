@@ -6,8 +6,8 @@ using namespace std;
 
 int main()
 {     
-    pedirmonto();
-    cambiodebilletes({},10);
+    Ejercicio1a();
+
 
     return 0;
 }
