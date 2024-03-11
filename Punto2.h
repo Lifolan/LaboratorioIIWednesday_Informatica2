@@ -2,6 +2,7 @@
 #define PUNTO2_H
 
 int Ejercicio1a();
+int Ejercicio2a();
 int Ejercicio3a();
 int Ejercicio4a();
 int Ejercicio5();
