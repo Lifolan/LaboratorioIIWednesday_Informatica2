@@ -1,10 +1,3 @@
-#include<iostream>
-#include<stdlib.h>
-#include<string.h>
-#include<cstdlib>
-
-using namespace std;
-
 #include <iostream>
 #include <conio.h>
 #include <string.h>
