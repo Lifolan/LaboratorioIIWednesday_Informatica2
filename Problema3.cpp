@@ -3,29 +3,31 @@
 #include<string.h>
 #include<ctype.h>
 
+using namespace std;
+
 int Ejercicio3a(){
 
     char palabra1[10], palabra2[10], respuesta='s';
 
     while(respuesta=='s' || respuesta=='S'){
 
-    printf("Ingrese la palabra 1 a comparar \n");
-    scanf("%s",palabra1);
+    cout << "Ingrese la palabra 1 a comparar \n"<< endl;
+    cin >> palabra1;
 
-    printf("Ingrese la palabra 2 a comparar \n");
-    scanf("%s",palabra2);
+    cout << "Ingrese la palabra 2 a comparar \n" << endl;
+    cin >>palabra2;
 
     if(strcmp(palabra1,palabra2)==0){
 
-        printf("Las palabras ingresadas son iguales \n");
+        cout<< "Las palabras ingresadas son iguales \n" << endl;
 
     }else{
-        printf("Las palabras ingresadas no son iguales \n");
+        cout << "Las palabras ingresadas no son iguales \n" << endl;
         }
 
-        printf("Desea ingresar otra vez SI(S) NO(N) \n");
-        scanf("%c",respuesta);
+        cout << "Desea ingresar otra vez SI(S) NO(N) \n" << endl;
+        cin >> respuesta;
     }
-    system("pause");
+
     return 0;
 }
