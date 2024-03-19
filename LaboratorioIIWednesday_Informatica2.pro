@@ -8,6 +8,7 @@ SOURCES += \
         Problema2.cpp \
         Problema3.cpp \
         Problema4.cpp \
+        Problema5.cpp \
         main.cpp
 
 HEADERS += \
