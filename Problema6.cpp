@@ -16,7 +16,7 @@ void converMayus(char cad[]){
 
 int Ejercicio6a() {
     char frase[80];
-    cout << "Introduzca frase con caracteres que incluya caracteres numericos y especiales: " << endl;
+    cout << "Introduzca frase que incluya caracteres numericos y especiales: " << endl;
     cin.getline(frase, 80);
 
     converMayus(frase);

@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {     
-    Ejercicio6a();
+    Ejercicio7a();
 
 
     return 0;
