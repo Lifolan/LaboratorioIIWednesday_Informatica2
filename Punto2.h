@@ -11,7 +11,7 @@ int Ejercicio7a();
 int Ejercicio8a();
 int Ejercicio9a();
 int Ejercicio10a();
+int Ejercicio11a();
 int Ejercicio12a();
-int Ejercicio13a();
 
 #endif // PUNTO2_H
