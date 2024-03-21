@@ -9,6 +9,7 @@ int Ejercicio5a();
 int Ejercicio6a();
 int Ejercicio7a();
 int Ejercicio8a();
+int Ejercicio9a();
 int Ejercicio10a();
 int Ejercicio12a();
 int Ejercicio13a();
